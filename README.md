@@ -27,7 +27,7 @@ print(np.linalg.solve(c,d))
 ```
 
 ## Output:
-![output](/linear%20equation.pnggit config)
+![output](/linear%20equation.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
